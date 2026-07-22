@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-19",
+  "timezone": "Asia/Shanghai",
+  "content_version": "04d60c5e4c25",
+  "tasks": [
+    {
+      "id": "2026-07-19-core-1",
+      "type": "core",
+      "title": "一边听音乐一边打扫房间"
+    },
+    {
+      "id": "2026-07-19-core-2",
+      "type": "core",
+      "title": "吃饭前数一下今天的食物有哪些颜色"
+    },
+    {
+      "id": "2026-07-19-core-3",
+      "type": "core",
+      "title": "换洗擦脸毛巾"
+    },
+    {
+      "id": "2026-07-19-bonus-1",
+      "type": "bonus",
+      "title": "从夯到拉锐评便利店雪糕"
+    }
+  ],
+  "tip": "小向导正在内测一个神奇的程序"
+}

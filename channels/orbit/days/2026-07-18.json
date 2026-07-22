@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-18",
+  "timezone": "Asia/Shanghai",
+  "content_version": "a559841f210f",
+  "tasks": [
+    {
+      "id": "2026-07-18-core-1",
+      "type": "core",
+      "title": "认真地闻一闻家里最香的东西"
+    },
+    {
+      "id": "2026-07-18-core-2",
+      "type": "core",
+      "title": "向一个最近帮过你的人说声谢谢"
+    },
+    {
+      "id": "2026-07-18-core-3",
+      "type": "core",
+      "title": "睡觉前把自己的枕头拍松"
+    },
+    {
+      "id": "2026-07-18-bonus-1",
+      "type": "bonus",
+      "title": "说出自己的一个优点"
+    }
+  ],
+  "tip": "小向导开发了一种神奇的道具"
+}

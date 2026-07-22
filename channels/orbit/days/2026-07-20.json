@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-20",
+  "timezone": "Asia/Shanghai",
+  "content_version": "46ac5ceffe72",
+  "tasks": [
+    {
+      "id": "2026-07-20-core-1",
+      "type": "core",
+      "title": "坐在地板上发呆一会儿"
+    },
+    {
+      "id": "2026-07-20-core-2",
+      "type": "core",
+      "title": "吃一顿不赶时间的饭"
+    },
+    {
+      "id": "2026-07-20-core-3",
+      "type": "core",
+      "title": "认真地擦一擦手机屏幕"
+    },
+    {
+      "id": "2026-07-20-bonus-1",
+      "type": "bonus",
+      "title": "用鼻子在空气中写一遍自己的名字"
+    }
+  ],
+  "tip": "小向导的任务推送程序正在内测中"
+}
