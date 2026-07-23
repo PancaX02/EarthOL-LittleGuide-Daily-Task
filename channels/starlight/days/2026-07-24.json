@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-24",
+  "timezone": "Asia/Shanghai",
+  "content_version": "56c7fd7ea33f",
+  "tasks": [
+    {
+      "id": "2026-07-24-core-1",
+      "type": "core",
+      "title": "用手机指南针确定窗户的朝向"
+    },
+    {
+      "id": "2026-07-24-core-2",
+      "type": "core",
+      "title": "坐着踮脚30次"
+    },
+    {
+      "id": "2026-07-24-core-3",
+      "type": "core",
+      "title": "听一首歌，用一条线画出它的起伏"
+    },
+    {
+      "id": "2026-07-24-bonus-1",
+      "type": "bonus",
+      "title": "用夸张的新闻标题描述今天的一件小事"
+    }
+  ],
+  "tip": "震惊！向导竟在开发神秘小道具"
+}
