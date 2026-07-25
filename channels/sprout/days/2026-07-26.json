@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-26",
+  "timezone": "Asia/Shanghai",
+  "content_version": "0a26b0eead9f",
+  "tasks": [
+    {
+      "id": "2026-07-26-core-1",
+      "type": "core",
+      "title": "换上一双干净的袜子"
+    },
+    {
+      "id": "2026-07-26-core-2",
+      "type": "core",
+      "title": "在厨房里找到三种不同的气味"
+    },
+    {
+      "id": "2026-07-26-core-3",
+      "type": "core",
+      "title": "用一种颜色形容此刻的心情"
+    },
+    {
+      "id": "2026-07-26-bonus-1",
+      "type": "bonus",
+      "title": "给某个水果拍张证件照"
+    }
+  ],
+  "tip": "向导的快捷指令即将正式上线"
+}
