@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-07-28",
   "timezone": "Asia/Shanghai",
-  "content_version": "4a4fef31bba1",
+  "content_version": "895b4acc564f",
   "tasks": [
     {
       "id": "2026-07-28-core-1",
@@ -22,8 +22,8 @@
     {
       "id": "2026-07-28-bonus-1",
       "type": "bonus",
-      "title": "把头埋进衣柜里10秒\n关于正式版，详情请访问：https://my.feishu.cn/wiki/JLnAwzQvdi4Vffkx4nocCLFcnIg?from=from_copylink"
+      "title": "把头埋进衣柜里10秒"
     }
   ],
-  "tip": "谢谢你陪小向导走到正式版上线～内测版将在 7 天后停止更新每日任务"
+  "tip": "向导的神奇道具正式上线啦"
 }
