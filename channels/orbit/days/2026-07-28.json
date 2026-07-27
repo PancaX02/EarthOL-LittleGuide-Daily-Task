@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-28",
+  "timezone": "Asia/Shanghai",
+  "content_version": "e132c5886e0e",
+  "tasks": [
+    {
+      "id": "2026-07-28-core-1",
+      "type": "core",
+      "title": "擦掉一处污渍"
+    },
+    {
+      "id": "2026-07-28-core-2",
+      "type": "core",
+      "title": "查清衣服洗涤标签上一个图标的意思"
+    },
+    {
+      "id": "2026-07-28-core-3",
+      "type": "core",
+      "title": "细嚼慢咽地吃饭"
+    },
+    {
+      "id": "2026-07-28-bonus-1",
+      "type": "bonus",
+      "title": "把头埋进衣柜里10秒\n详情请访问：https://my.feishu.cn/wiki/JLnAwzQvdi4Vffkx4nocCLFcnIg?from=from_copylink"
+    }
+  ],
+  "tip": "谢谢你陪小向导走到正式上线～内测版将在 7 天后停止更新每日任务"
+}
