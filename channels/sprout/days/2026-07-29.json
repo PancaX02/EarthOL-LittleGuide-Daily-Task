@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-29",
+  "timezone": "Asia/Shanghai",
+  "content_version": "8775990c1e9a",
+  "tasks": [
+    {
+      "id": "2026-07-29-core-1",
+      "type": "core",
+      "title": "写下你最难被别人理解的偏好"
+    },
+    {
+      "id": "2026-07-29-core-2",
+      "type": "core",
+      "title": "用温水洗脸"
+    },
+    {
+      "id": "2026-07-29-core-3",
+      "type": "core",
+      "title": "扔掉一支坏掉的笔"
+    },
+    {
+      "id": "2026-07-29-bonus-1",
+      "type": "bonus",
+      "title": "躲进衣柜里"
+    }
+  ],
+  "tip": "好喜欢衣柜的味道啊"
+}
