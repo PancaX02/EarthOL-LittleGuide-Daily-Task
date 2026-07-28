@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-30",
+  "timezone": "Asia/Shanghai",
+  "content_version": "494c02e56309",
+  "tasks": [
+    {
+      "id": "2026-07-30-core-1",
+      "type": "core",
+      "title": "在树荫下读一会儿书"
+    },
+    {
+      "id": "2026-07-30-core-2",
+      "type": "core",
+      "title": "带着水果去散步"
+    },
+    {
+      "id": "2026-07-30-core-3",
+      "type": "core",
+      "title": "学会打一种简单的绳结"
+    },
+    {
+      "id": "2026-07-30-bonus-1",
+      "type": "bonus",
+      "title": "亲吻一下自己的手臂"
+    }
+  ],
+  "tip": "小向导在读一本漫画书哦～"
+}
