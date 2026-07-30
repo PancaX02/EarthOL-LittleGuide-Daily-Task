@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-01",
+  "timezone": "Asia/Shanghai",
+  "content_version": "c46142d3fa54",
+  "tasks": [
+    {
+      "id": "2026-08-01-core-1",
+      "type": "core",
+      "title": "用语音回复一条原本准备打字的消息"
+    },
+    {
+      "id": "2026-08-01-core-2",
+      "type": "core",
+      "title": "补充常用位置的纸巾"
+    },
+    {
+      "id": "2026-08-01-core-3",
+      "type": "core",
+      "title": "学会一种新的系鞋带方法"
+    },
+    {
+      "id": "2026-08-01-bonus-1",
+      "type": "bonus",
+      "title": "坚持一整天不揉眼睛"
+    }
+  ],
+  "tip": "揉眼睛对眼睛不太好哦"
+}
