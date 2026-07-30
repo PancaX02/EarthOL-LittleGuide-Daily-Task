@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-07-31",
+  "timezone": "Asia/Shanghai",
+  "content_version": "c85313ad5b66",
+  "tasks": [
+    {
+      "id": "2026-07-31-core-1",
+      "type": "core",
+      "title": "醒来后不看手机，先喝水"
+    },
+    {
+      "id": "2026-07-31-core-2",
+      "type": "core",
+      "title": "清理一下自己的背包"
+    },
+    {
+      "id": "2026-07-31-core-3",
+      "type": "core",
+      "title": "听歌时跟随节奏晃动身体"
+    },
+    {
+      "id": "2026-07-31-bonus-1",
+      "type": "bonus",
+      "title": "在家里找到一个不认识的外文单词，并查清它的意思"
+    }
+  ],
+  "tip": "oats 燕麦"
+}
