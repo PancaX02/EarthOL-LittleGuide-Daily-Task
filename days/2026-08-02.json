@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-02",
+  "timezone": "Asia/Shanghai",
+  "content_version": "bb715e868e5a",
+  "tasks": [
+    {
+      "id": "2026-08-02-core-1",
+      "type": "core",
+      "title": "用“其实我希望……”补完一句话"
+    },
+    {
+      "id": "2026-08-02-core-2",
+      "type": "core",
+      "title": "揉一会儿自己的肚子"
+    },
+    {
+      "id": "2026-08-02-core-3",
+      "type": "core",
+      "title": "在地图上找出离家最近的一条河"
+    },
+    {
+      "id": "2026-08-02-bonus-1",
+      "type": "bonus",
+      "title": "扫扫床"
+    }
+  ],
+  "tip": "干净平整，睡起来会更舒服"
+}
