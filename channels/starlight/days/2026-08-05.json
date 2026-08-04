@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-05",
+  "timezone": "Asia/Shanghai",
+  "content_version": "e006b4cbaa5e",
+  "tasks": [
+    {
+      "id": "2026-08-05-core-1",
+      "type": "core",
+      "title": "给房间通风5分钟"
+    },
+    {
+      "id": "2026-08-05-core-2",
+      "type": "core",
+      "title": "双手紧紧握拳再完全张开10次"
+    },
+    {
+      "id": "2026-08-05-core-3",
+      "type": "core",
+      "title": "找到3个白色的物品"
+    },
+    {
+      "id": "2026-08-05-bonus-1",
+      "type": "bonus",
+      "title": "躺成一个“大”字"
+    }
+  ],
+  "tip": "今天好热啊！"
+}
