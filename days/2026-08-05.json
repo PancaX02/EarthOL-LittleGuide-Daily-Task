@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-08-05",
   "timezone": "Asia/Shanghai",
-  "content_version": "7bd85b9f29c2",
+  "content_version": "c5f3abe31749",
   "tasks": [
     {
       "id": "2026-08-05-core-1",
@@ -12,7 +12,7 @@
     {
       "id": "2026-08-05-core-2",
       "type": "core",
-      "title": "正式版已经上架，内测版即将停止刷新"
+      "title": "正式版现已上架，内测版将停止刷新"
     },
     {
       "id": "2026-08-05-core-3",
