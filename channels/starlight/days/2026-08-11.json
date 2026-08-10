@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-11",
+  "timezone": "Asia/Shanghai",
+  "content_version": "6d9836fcc7a2",
+  "tasks": [
+    {
+      "id": "2026-08-11-core-1",
+      "type": "core",
+      "title": "坐在地板上发呆一会儿"
+    },
+    {
+      "id": "2026-08-11-core-2",
+      "type": "core",
+      "title": "做手影"
+    },
+    {
+      "id": "2026-08-11-core-3",
+      "type": "core",
+      "title": "睡前做10个臀桥"
+    },
+    {
+      "id": "2026-08-11-bonus-1",
+      "type": "bonus",
+      "title": "提醒一位好友该喝水了"
+    }
+  ],
+  "tip": "喝水时间到！"
+}
