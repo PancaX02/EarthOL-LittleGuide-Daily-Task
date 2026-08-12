@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-13",
+  "timezone": "Asia/Shanghai",
+  "content_version": "debd057ff37e",
+  "tasks": [
+    {
+      "id": "2026-08-13-core-1",
+      "type": "core",
+      "title": "把一件歪掉的东西扶正"
+    },
+    {
+      "id": "2026-08-13-core-2",
+      "type": "core",
+      "title": "尽量吃得健康一些"
+    },
+    {
+      "id": "2026-08-13-core-3",
+      "type": "core",
+      "title": "拒绝一件事情"
+    },
+    {
+      "id": "2026-08-13-bonus-1",
+      "type": "bonus",
+      "title": "查查某件日常用品的发明者"
+    }
+  ],
+  "tip": "我想知道谁发明了指甲刀"
+}
