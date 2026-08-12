@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-12",
+  "timezone": "Asia/Shanghai",
+  "content_version": "6461a264c8d8",
+  "tasks": [
+    {
+      "id": "2026-08-12-core-1",
+      "type": "core",
+      "title": "做几个扩胸运动"
+    },
+    {
+      "id": "2026-08-12-core-2",
+      "type": "core",
+      "title": "练习一下微笑"
+    },
+    {
+      "id": "2026-08-12-core-3",
+      "type": "core",
+      "title": "写下一个你已经不再喜欢的东西"
+    },
+    {
+      "id": "2026-08-12-bonus-1",
+      "type": "bonus",
+      "title": "一边听音乐一边打扫房间"
+    }
+  ],
+  "tip": "站起来活动一会儿吧～"
+}
