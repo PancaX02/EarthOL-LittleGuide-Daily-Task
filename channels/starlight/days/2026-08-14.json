@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-14",
+  "timezone": "Asia/Shanghai",
+  "content_version": "603b37031830",
+  "tasks": [
+    {
+      "id": "2026-08-14-core-1",
+      "type": "core",
+      "title": "分享一个最近吃到的美食"
+    },
+    {
+      "id": "2026-08-14-core-2",
+      "type": "core",
+      "title": "认真擦一遍电脑屏幕"
+    },
+    {
+      "id": "2026-08-14-core-3",
+      "type": "core",
+      "title": "倒垃圾"
+    },
+    {
+      "id": "2026-08-14-bonus-1",
+      "type": "bonus",
+      "title": "搓热双手揉揉自己的肚子"
+    }
+  ],
+  "tip": "我发现把人夹在床垫和被子之间会很舒服"
+}
