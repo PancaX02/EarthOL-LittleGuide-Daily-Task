@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-15",
+  "timezone": "Asia/Shanghai",
+  "content_version": "a198de6443a2",
+  "tasks": [
+    {
+      "id": "2026-08-15-core-1",
+      "type": "core",
+      "title": "找到一个橙色的东西"
+    },
+    {
+      "id": "2026-08-15-core-2",
+      "type": "core",
+      "title": "闭上眼睛深呼吸5次"
+    },
+    {
+      "id": "2026-08-15-core-3",
+      "type": "core",
+      "title": "把今天穿过的鞋子整齐地摆好"
+    },
+    {
+      "id": "2026-08-15-bonus-1",
+      "type": "bonus",
+      "title": "写下一句你现在最想听到的话"
+    }
+  ],
+  "tip": "有人喜欢喝橙汁吗？"
+}
