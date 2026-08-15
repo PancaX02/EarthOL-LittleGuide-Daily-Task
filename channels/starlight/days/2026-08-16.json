@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-16",
+  "timezone": "Asia/Shanghai",
+  "content_version": "1c86b24e6bc7",
+  "tasks": [
+    {
+      "id": "2026-08-16-core-1",
+      "type": "core",
+      "title": "尽量吃得健康一些"
+    },
+    {
+      "id": "2026-08-16-core-2",
+      "type": "core",
+      "title": "看完收藏夹里的一个长视频"
+    },
+    {
+      "id": "2026-08-16-core-3",
+      "type": "core",
+      "title": "晚上提前半个小时入睡"
+    },
+    {
+      "id": "2026-08-16-bonus-1",
+      "type": "bonus",
+      "title": "想办法测试一下自己的大便有多重"
+    }
+  ],
+  "tip": "是的你没有看错"
+}
