@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-17",
+  "timezone": "Asia/Shanghai",
+  "content_version": "cc1a033c5512",
+  "tasks": [
+    {
+      "id": "2026-08-17-core-1",
+      "type": "core",
+      "title": "在手腕上画一个手表"
+    },
+    {
+      "id": "2026-08-17-core-2",
+      "type": "core",
+      "title": "用勺子吃西瓜"
+    },
+    {
+      "id": "2026-08-17-core-3",
+      "type": "core",
+      "title": "夸一下18:00后遇到的第一个人"
+    },
+    {
+      "id": "2026-08-17-bonus-1",
+      "type": "bonus",
+      "title": "找一种最适合擦屁股的树叶"
+    }
+  ],
+  "tip": "将会是相当充实的一天"
+}
