@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-19",
+  "timezone": "Asia/Shanghai",
+  "content_version": "9c0a117db277",
+  "tasks": [
+    {
+      "id": "2026-08-19-core-1",
+      "type": "core",
+      "title": "记下今天天空的颜色"
+    },
+    {
+      "id": "2026-08-19-core-2",
+      "type": "core",
+      "title": "捡一片好看的落叶/花瓣"
+    },
+    {
+      "id": "2026-08-19-core-3",
+      "type": "core",
+      "title": "对着镜子夸自己一句话"
+    },
+    {
+      "id": "2026-08-19-bonus-1",
+      "type": "bonus",
+      "title": "留意路边的小动物/小虫子，安静地看看它在干什么"
+    }
+  ],
+  "tip": "今天捡到了落叶，秋天来了诶……"
+}
