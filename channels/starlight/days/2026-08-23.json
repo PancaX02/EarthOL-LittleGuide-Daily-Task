@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-23",
+  "timezone": "Asia/Shanghai",
+  "content_version": "1ed903ea8ee1",
+  "tasks": [
+    {
+      "id": "2026-08-23-core-1",
+      "type": "core",
+      "title": "完成一件拖延很久的事"
+    },
+    {
+      "id": "2026-08-23-core-2",
+      "type": "core",
+      "title": "擦干净手机屏幕"
+    },
+    {
+      "id": "2026-08-23-core-3",
+      "type": "core",
+      "title": "用巴氏刷牙法刷一次牙"
+    },
+    {
+      "id": "2026-08-23-bonus-1",
+      "type": "bonus",
+      "title": "写下一件你最近独自完成的事"
+    }
+  ],
+  "tip": "今天有些不知道说什么了……"
+}
