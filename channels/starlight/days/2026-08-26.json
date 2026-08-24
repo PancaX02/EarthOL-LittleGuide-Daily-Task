@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-26",
+  "timezone": "Asia/Shanghai",
+  "content_version": "42158a50b192",
+  "tasks": [
+    {
+      "id": "2026-08-26-core-1",
+      "type": "core",
+      "title": "找出今日最幸福的时刻"
+    },
+    {
+      "id": "2026-08-26-core-2",
+      "type": "core",
+      "title": "认真地回复一条被搁置的消息"
+    },
+    {
+      "id": "2026-08-26-core-3",
+      "type": "core",
+      "title": "计算出自己的出生天数"
+    },
+    {
+      "id": "2026-08-26-bonus-1",
+      "type": "bonus",
+      "title": "边听播客边打扫卫生"
+    }
+  ],
+  "tip": "可以推荐一个你喜欢的播客吗"
+}
