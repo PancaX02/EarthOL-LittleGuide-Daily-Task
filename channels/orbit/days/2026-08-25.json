@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-25",
+  "timezone": "Asia/Shanghai",
+  "content_version": "cca5f6012080",
+  "tasks": [
+    {
+      "id": "2026-08-25-core-1",
+      "type": "core",
+      "title": "听一首最符合此刻心情的歌"
+    },
+    {
+      "id": "2026-08-25-core-2",
+      "type": "core",
+      "title": "为一件最符合你审美的物品拍照"
+    },
+    {
+      "id": "2026-08-25-core-3",
+      "type": "core",
+      "title": "认真地夸一个人一句"
+    },
+    {
+      "id": "2026-08-25-bonus-1",
+      "type": "bonus",
+      "title": "故意走一小段弯路"
+    }
+  ],
+  "tip": "有时候歧路的风景更为美丽"
+}
