@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-02",
+  "timezone": "Asia/Shanghai",
+  "content_version": "9ba59bcc729b",
+  "tasks": [
+    {
+      "id": "2026-09-02-core-1",
+      "type": "core",
+      "title": "避免进食油炸类食物"
+    },
+    {
+      "id": "2026-09-02-core-2",
+      "type": "core",
+      "title": "认真地擦一擦手机屏幕"
+    },
+    {
+      "id": "2026-09-02-core-3",
+      "type": "core",
+      "title": "了解一个著名悖论"
+    },
+    {
+      "id": "2026-09-02-bonus-1",
+      "type": "bonus",
+      "title": "拥抱一名玩家，也可以拥抱自己"
+    }
+  ],
+  "tip": "拥抱的感觉真的很奇妙"
+}
