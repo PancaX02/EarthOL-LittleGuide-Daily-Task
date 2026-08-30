@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-05",
+  "timezone": "Asia/Shanghai",
+  "content_version": "8f3e5faf9ffd",
+  "tasks": [
+    {
+      "id": "2026-09-05-core-1",
+      "type": "core",
+      "title": "拍一张绿色的照片"
+    },
+    {
+      "id": "2026-09-05-core-2",
+      "type": "core",
+      "title": "轻轻揉一揉耳朵直到发热"
+    },
+    {
+      "id": "2026-09-05-core-3",
+      "type": "core",
+      "title": "练习一下微笑"
+    },
+    {
+      "id": "2026-09-05-bonus-1",
+      "type": "bonus",
+      "title": "打开冰箱之前先敲门"
+    }
+  ],
+  "tip": "小心打扰到正在休息的食物们哦"
+}

@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-05",
+  "timezone": "Asia/Shanghai",
+  "content_version": "85259074fb6a",
+  "tasks": [
+    {
+      "id": "2026-09-05-core-1",
+      "type": "core",
+      "title": "感谢宝宝们对内测版的支持"
+    },
+    {
+      "id": "2026-09-05-core-2",
+      "type": "core",
+      "title": "正式版现已上架，内测版将停止刷新"
+    },
+    {
+      "id": "2026-09-05-core-3",
+      "type": "core",
+      "title": "详情请访问：[https://my.feishu.cn/wiki/JLnAwzQvdi4Vffkx4nocCLFcnIg](https://my.feishu.cn/wiki/JLnAwzQvdi4Vffkx4nocCLFcnIg)"
+    },
+    {
+      "id": "2026-09-05-bonus-1",
+      "type": "bonus",
+      "title": "期待在正式版继续为大家服务～"
+    }
+  ],
+  "tip": "期待与你再次相见"
+}
