@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-03",
+  "timezone": "Asia/Shanghai",
+  "content_version": "0541a50bc033",
+  "tasks": [
+    {
+      "id": "2026-09-03-core-1",
+      "type": "core",
+      "title": "去公园散步10分钟"
+    },
+    {
+      "id": "2026-09-03-core-2",
+      "type": "core",
+      "title": "翻出一条收藏了半年以上的内容"
+    },
+    {
+      "id": "2026-09-03-core-3",
+      "type": "core",
+      "title": "立刻拍下眼前的画面"
+    },
+    {
+      "id": "2026-09-03-bonus-1",
+      "type": "bonus",
+      "title": "了解1种不宜同时进食的食物搭配"
+    }
+  ],
+  "tip": "不要同时吃香蕉和冬枣……"
+}
