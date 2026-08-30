@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-08-31",
+  "timezone": "Asia/Shanghai",
+  "content_version": "e58cc91a88ed",
+  "tasks": [
+    {
+      "id": "2026-08-31-core-1",
+      "type": "core",
+      "title": "进食任意水果"
+    },
+    {
+      "id": "2026-08-31-core-2",
+      "type": "core",
+      "title": "断舍离一件物品"
+    },
+    {
+      "id": "2026-08-31-core-3",
+      "type": "core",
+      "title": "双手紧紧握拳再完全张开10次"
+    },
+    {
+      "id": "2026-08-31-bonus-1",
+      "type": "bonus",
+      "title": "空气投篮3次(0/3)"
+    }
+  ],
+  "tip": "跳起来会投得更远哦"
+}
