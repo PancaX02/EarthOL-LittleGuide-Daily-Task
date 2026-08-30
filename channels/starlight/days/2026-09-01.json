@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-01",
+  "timezone": "Asia/Shanghai",
+  "content_version": "c9d6f27405bf",
+  "tasks": [
+    {
+      "id": "2026-09-01-core-1",
+      "type": "core",
+      "title": "认真地聆听一首英文歌"
+    },
+    {
+      "id": "2026-09-01-core-2",
+      "type": "core",
+      "title": "找出你最擅长的事"
+    },
+    {
+      "id": "2026-09-01-core-3",
+      "type": "core",
+      "title": "搜索并了解一位墨西哥文学作家"
+    },
+    {
+      "id": "2026-09-01-bonus-1",
+      "type": "bonus",
+      "title": "用一个标点符号表示你今天的心情"
+    }
+  ],
+  "tip": "¿"
+}
