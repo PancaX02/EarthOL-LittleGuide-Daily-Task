@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-08",
+  "timezone": "Asia/Shanghai",
+  "content_version": "1cdaad3681c9",
+  "tasks": [
+    {
+      "id": "2026-09-08-core-1",
+      "type": "core",
+      "title": "回忆一件令你开心的事"
+    },
+    {
+      "id": "2026-09-08-core-2",
+      "type": "core",
+      "title": "推荐一首你喜欢的歌"
+    },
+    {
+      "id": "2026-09-08-core-3",
+      "type": "core",
+      "title": "学习一个简单的手语"
+    },
+    {
+      "id": "2026-09-08-bonus-1",
+      "type": "bonus",
+      "title": "游玩任意一个单机游戏"
+    }
+  ],
+  "tip": "有人喜欢玩索尼克吗（蓝色刺猬）"
+}
