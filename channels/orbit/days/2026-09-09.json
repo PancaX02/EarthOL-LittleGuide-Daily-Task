@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-09",
+  "timezone": "Asia/Shanghai",
+  "content_version": "d5beb17928ca",
+  "tasks": [
+    {
+      "id": "2026-09-09-core-1",
+      "type": "core",
+      "title": "带着水果去散步"
+    },
+    {
+      "id": "2026-09-09-core-2",
+      "type": "core",
+      "title": "认真地模仿一种动物的叫声"
+    },
+    {
+      "id": "2026-09-09-core-3",
+      "type": "core",
+      "title": "用温水洗脸"
+    },
+    {
+      "id": "2026-09-09-bonus-1",
+      "type": "bonus",
+      "title": "徒手计算8769的平方"
+    }
+  ],
+  "tip": "口算也行"
+}
