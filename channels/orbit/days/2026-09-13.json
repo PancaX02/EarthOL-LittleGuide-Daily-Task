@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-13",
+  "timezone": "Asia/Shanghai",
+  "content_version": "d74a0fce5de4",
+  "tasks": [
+    {
+      "id": "2026-09-13-core-1",
+      "type": "core",
+      "title": "清理一下手机内存"
+    },
+    {
+      "id": "2026-09-13-core-2",
+      "type": "core",
+      "title": "连续跳跃5次(0/5)"
+    },
+    {
+      "id": "2026-09-13-core-3",
+      "type": "core",
+      "title": "拍下一个井盖"
+    },
+    {
+      "id": "2026-09-13-bonus-1",
+      "type": "bonus",
+      "title": "找出本周最幸福的时刻"
+    }
+  ],
+  "tip": "希望你的幸福和我有关……"
+}
