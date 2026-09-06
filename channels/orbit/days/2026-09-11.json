@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-11",
+  "timezone": "Asia/Shanghai",
+  "content_version": "4d2c6e5415ef",
+  "tasks": [
+    {
+      "id": "2026-09-11-core-1",
+      "type": "core",
+      "title": "拍摄今天的三餐(0/3)"
+    },
+    {
+      "id": "2026-09-11-core-2",
+      "type": "core",
+      "title": "准备一分钟的自我介绍"
+    },
+    {
+      "id": "2026-09-11-core-3",
+      "type": "core",
+      "title": "推荐一首你喜欢的歌"
+    },
+    {
+      "id": "2026-09-11-bonus-1",
+      "type": "bonus",
+      "title": "用线条画出今天情绪的起伏"
+    }
+  ],
+  "tip": "我们会越来越了解自己"
+}
