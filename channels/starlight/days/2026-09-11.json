@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-09-11",
   "timezone": "Asia/Shanghai",
-  "content_version": "4d2c6e5415ef",
+  "content_version": "b5bdce9cf05b",
   "tasks": [
     {
       "id": "2026-09-11-core-1",
@@ -17,7 +17,7 @@
     {
       "id": "2026-09-11-core-3",
       "type": "core",
-      "title": "推荐一首你喜欢的歌"
+      "title": "坚持一整天不抠鼻屎"
     },
     {
       "id": "2026-09-11-bonus-1",
