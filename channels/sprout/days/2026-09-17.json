@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-17",
+  "timezone": "Asia/Shanghai",
+  "content_version": "2f0eed537b39",
+  "tasks": [
+    {
+      "id": "2026-09-17-core-1",
+      "type": "core",
+      "title": "在公园或绿地待二十分钟"
+    },
+    {
+      "id": "2026-09-17-core-2",
+      "type": "core",
+      "title": "进食红色的食物"
+    },
+    {
+      "id": "2026-09-17-core-3",
+      "type": "core",
+      "title": "写一篇心情日记"
+    },
+    {
+      "id": "2026-09-17-bonus-1",
+      "type": "bonus",
+      "title": "分享一个你常用的手机小技巧"
+    }
+  ],
+  "tip": "我很擅长制作iOS快捷指令"
+}
