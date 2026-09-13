@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-20",
+  "timezone": "Asia/Shanghai",
+  "content_version": "b0d381d68438",
+  "tasks": [
+    {
+      "id": "2026-09-20-core-1",
+      "type": "core",
+      "title": "向起床见到的第一个人说早安"
+    },
+    {
+      "id": "2026-09-20-core-2",
+      "type": "core",
+      "title": "挑战一整天不咬指甲"
+    },
+    {
+      "id": "2026-09-20-core-3",
+      "type": "core",
+      "title": "学习一个成语及其典故"
+    },
+    {
+      "id": "2026-09-20-bonus-1",
+      "type": "bonus",
+      "title": "找到你身边最旧的东西"
+    }
+  ],
+  "tip": "我有一个用了好多年的水杯"
+}
