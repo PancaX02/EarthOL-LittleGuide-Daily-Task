@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-16",
+  "timezone": "Asia/Shanghai",
+  "content_version": "bd652809f0a4",
+  "tasks": [
+    {
+      "id": "2026-09-16-core-1",
+      "type": "core",
+      "title": "逛一逛早上的菜市场"
+    },
+    {
+      "id": "2026-09-16-core-2",
+      "type": "core",
+      "title": "换上一双干净的袜子"
+    },
+    {
+      "id": "2026-09-16-core-3",
+      "type": "core",
+      "title": "整理冰箱"
+    },
+    {
+      "id": "2026-09-16-bonus-1",
+      "type": "bonus",
+      "title": "折一只纸飞机并放飞"
+    }
+  ],
+  "tip": "如果我们能不通过消费获得快乐"
+}
