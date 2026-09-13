@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-19",
+  "timezone": "Asia/Shanghai",
+  "content_version": "de61135337d8",
+  "tasks": [
+    {
+      "id": "2026-09-19-core-1",
+      "type": "core",
+      "title": "学习一段八段锦"
+    },
+    {
+      "id": "2026-09-19-core-2",
+      "type": "core",
+      "title": "认真地使用一次牙线"
+    },
+    {
+      "id": "2026-09-19-core-3",
+      "type": "core",
+      "title": "购买一些想吃已久的零食"
+    },
+    {
+      "id": "2026-09-19-bonus-1",
+      "type": "bonus",
+      "title": "吓一名玩家"
+    }
+  ],
+  "tip": "注意把控尺度哦（偷笑）"
+}
