@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-22",
+  "timezone": "Asia/Shanghai",
+  "content_version": "ed56feda31e2",
+  "tasks": [
+    {
+      "id": "2026-09-22-core-1",
+      "type": "core",
+      "title": "伸一个超大的懒腰"
+    },
+    {
+      "id": "2026-09-22-core-2",
+      "type": "core",
+      "title": "原谅自己一件事"
+    },
+    {
+      "id": "2026-09-22-core-3",
+      "type": "core",
+      "title": "向AI提问3次"
+    },
+    {
+      "id": "2026-09-22-bonus-1",
+      "type": "bonus",
+      "title": "在黑暗中洗澡"
+    }
+  ],
+  "tip": "让过度刺激的神经系统平静下来吧"
+}
