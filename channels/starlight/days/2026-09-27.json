@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-27",
+  "timezone": "Asia/Shanghai",
+  "content_version": "b3a46d7d60c3",
+  "tasks": [
+    {
+      "id": "2026-09-27-core-1",
+      "type": "core",
+      "title": "清洗今天用过的杯子"
+    },
+    {
+      "id": "2026-09-27-core-2",
+      "type": "core",
+      "title": "补充蛋白质至人体每日所需"
+    },
+    {
+      "id": "2026-09-27-core-3",
+      "type": "core",
+      "title": "深呼吸5次"
+    },
+    {
+      "id": "2026-09-27-bonus-1",
+      "type": "bonus",
+      "title": "学一种新的折纸"
+    }
+  ],
+  "tip": "今天也要好好爱自己哦"
+}
