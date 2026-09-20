@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-26",
+  "timezone": "Asia/Shanghai",
+  "content_version": "2eea58ff5316",
+  "tasks": [
+    {
+      "id": "2026-09-26-core-1",
+      "type": "core",
+      "title": "@一位好友提醒ta该喝水了"
+    },
+    {
+      "id": "2026-09-26-core-2",
+      "type": "core",
+      "title": "尝试作一幅画"
+    },
+    {
+      "id": "2026-09-26-core-3",
+      "type": "core",
+      "title": "吃一个好看的水果"
+    },
+    {
+      "id": "2026-09-26-bonus-1",
+      "type": "bonus",
+      "title": "洗被罩"
+    }
+  ],
+  "tip": "香香的被子是我的家"
+}
