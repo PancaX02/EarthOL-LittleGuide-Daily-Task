@@ -2,12 +2,12 @@
   "schema_version": 1,
   "date": "2026-09-26",
   "timezone": "Asia/Shanghai",
-  "content_version": "2eea58ff5316",
+  "content_version": "cc484127083c",
   "tasks": [
     {
       "id": "2026-09-26-core-1",
       "type": "core",
-      "title": "@一位好友提醒ta该喝水了"
+      "title": "提醒一位好友该喝水了"
     },
     {
       "id": "2026-09-26-core-2",
