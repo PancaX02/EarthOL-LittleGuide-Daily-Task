@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-23",
+  "timezone": "Asia/Shanghai",
+  "content_version": "d7c46fe34c3b",
+  "tasks": [
+    {
+      "id": "2026-09-23-core-1",
+      "type": "core",
+      "title": "认真地夸一个人一句"
+    },
+    {
+      "id": "2026-09-23-core-2",
+      "type": "core",
+      "title": "查询自己生日的天干地支"
+    },
+    {
+      "id": "2026-09-23-core-3",
+      "type": "core",
+      "title": "一边听音乐一边打扫卫生"
+    },
+    {
+      "id": "2026-09-23-bonus-1",
+      "type": "bonus",
+      "title": "写一篇心情日记"
+    }
+  ],
+  "tip": "记下今天的心情如何波动"
+}
