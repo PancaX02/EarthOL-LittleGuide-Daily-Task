@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-25",
+  "timezone": "Asia/Shanghai",
+  "content_version": "cf2e2977b660",
+  "tasks": [
+    {
+      "id": "2026-09-25-core-1",
+      "type": "core",
+      "title": "认真地观察一颗水珠"
+    },
+    {
+      "id": "2026-09-25-core-2",
+      "type": "core",
+      "title": "找出今天最幸福的时刻"
+    },
+    {
+      "id": "2026-09-25-core-3",
+      "type": "core",
+      "title": "阅读一篇长文"
+    },
+    {
+      "id": "2026-09-25-bonus-1",
+      "type": "bonus",
+      "title": "分享你最喜欢的下饭内容"
+    }
+  ],
+  "tip": "借我一双没看过甄嬛传的眼睛"
+}
