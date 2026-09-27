@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-01",
+  "timezone": "Asia/Shanghai",
+  "content_version": "432d48a12445",
+  "tasks": [
+    {
+      "id": "2026-10-01-core-1",
+      "type": "core",
+      "title": "清理抽屉"
+    },
+    {
+      "id": "2026-10-01-core-2",
+      "type": "core",
+      "title": "坐着踮脚30次"
+    },
+    {
+      "id": "2026-10-01-core-3",
+      "type": "core",
+      "title": "拍一张白色的照片"
+    },
+    {
+      "id": "2026-10-01-bonus-1",
+      "type": "bonus",
+      "title": "比平常早起一个小时，吃一顿丰盛的早餐"
+    }
+  ],
+  "tip": "早上的空气超新鲜"
+}
