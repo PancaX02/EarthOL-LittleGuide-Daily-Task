@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-02",
+  "timezone": "Asia/Shanghai",
+  "content_version": "32c82ea1abf8",
+  "tasks": [
+    {
+      "id": "2026-10-02-core-1",
+      "type": "core",
+      "title": "认真地观察一只小鸟"
+    },
+    {
+      "id": "2026-10-02-core-2",
+      "type": "core",
+      "title": "练习一下微笑"
+    },
+    {
+      "id": "2026-10-02-core-3",
+      "type": "core",
+      "title": "学习一个人体知识"
+    },
+    {
+      "id": "2026-10-02-bonus-1",
+      "type": "bonus",
+      "title": "说出一个自己认为最美好的词"
+    }
+  ],
+  "tip": "我觉得「美好」是一个很美好的词"
+}
