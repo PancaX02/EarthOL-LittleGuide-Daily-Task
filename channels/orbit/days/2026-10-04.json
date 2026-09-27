@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-04",
+  "timezone": "Asia/Shanghai",
+  "content_version": "653db6dcb8cb",
+  "tasks": [
+    {
+      "id": "2026-10-04-core-1",
+      "type": "core",
+      "title": "整理散落的零钱"
+    },
+    {
+      "id": "2026-10-04-core-2",
+      "type": "core",
+      "title": "拍下最喜欢的一朵云"
+    },
+    {
+      "id": "2026-10-04-core-3",
+      "type": "core",
+      "title": "认真地夸一个人一句"
+    },
+    {
+      "id": "2026-10-04-bonus-1",
+      "type": "bonus",
+      "title": "倒着走5分钟"
+    }
+  ],
+  "tip": "倒着走会让腰椎很舒服"
+}
