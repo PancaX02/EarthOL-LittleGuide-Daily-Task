@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-09-30",
+  "timezone": "Asia/Shanghai",
+  "content_version": "8099d36ab9a0",
+  "tasks": [
+    {
+      "id": "2026-09-30-core-1",
+      "type": "core",
+      "title": "学做一个瑜伽伸展动作"
+    },
+    {
+      "id": "2026-09-30-core-2",
+      "type": "core",
+      "title": "使用一个从未使用过的emoji"
+    },
+    {
+      "id": "2026-09-30-core-3",
+      "type": "core",
+      "title": "认真地睡个午觉"
+    },
+    {
+      "id": "2026-09-30-bonus-1",
+      "type": "bonus",
+      "title": "用被子把自己卷起来"
+    }
+  ],
+  "tip": "然后像毛毛虫一样蠕动"
+}
