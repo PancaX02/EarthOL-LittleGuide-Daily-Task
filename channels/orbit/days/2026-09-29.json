@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-09-29",
   "timezone": "Asia/Shanghai",
-  "content_version": "4d2dfcf5b068",
+  "content_version": "3d2d54f3eede",
   "tasks": [
     {
       "id": "2026-09-29-core-1",
@@ -17,7 +17,7 @@
     {
       "id": "2026-09-29-core-3",
       "type": "core",
-      "title": "列一个愿望清单"
+      "title": "规划一下国庆假期"
     },
     {
       "id": "2026-09-29-bonus-1",
