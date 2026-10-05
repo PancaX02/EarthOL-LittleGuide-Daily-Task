@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-06",
+  "timezone": "Asia/Shanghai",
+  "content_version": "ae0e0a24872f",
+  "tasks": [
+    {
+      "id": "2026-10-06-core-1",
+      "type": "core",
+      "title": "用温水泡泡脚"
+    },
+    {
+      "id": "2026-10-06-core-2",
+      "type": "core",
+      "title": "清理一下手机壳"
+    },
+    {
+      "id": "2026-10-06-core-3",
+      "type": "core",
+      "title": "把一个掉在地上的垃圾捡进垃圾桶"
+    },
+    {
+      "id": "2026-10-06-bonus-1",
+      "type": "bonus",
+      "title": "在23:00之前睡觉"
+    }
+  ],
+  "tip": "和向导一起调整作息吧！"
+}
