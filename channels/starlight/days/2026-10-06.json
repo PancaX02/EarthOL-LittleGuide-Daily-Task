@@ -2,28 +2,28 @@
   "schema_version": 1,
   "date": "2026-10-06",
   "timezone": "Asia/Shanghai",
-  "content_version": "ae0e0a24872f",
+  "content_version": "6c2c68cc6df7",
   "tasks": [
     {
       "id": "2026-10-06-core-1",
       "type": "core",
-      "title": "用温水泡泡脚"
+      "title": "换洗擦脸毛巾"
     },
     {
       "id": "2026-10-06-core-2",
       "type": "core",
-      "title": "清理一下手机壳"
+      "title": "在公园或绿地待20分钟"
     },
     {
       "id": "2026-10-06-core-3",
       "type": "core",
-      "title": "把一个掉在地上的垃圾捡进垃圾桶"
+      "title": "上厕所的时候不看手机"
     },
     {
       "id": "2026-10-06-bonus-1",
       "type": "bonus",
-      "title": "在23:00之前睡觉"
+      "title": "喝一桶大水(1.5L)"
     }
   ],
-  "tip": "和向导一起调整作息吧！"
+  "tip": "喝大水，提神、健脑、身体好。"
 }
