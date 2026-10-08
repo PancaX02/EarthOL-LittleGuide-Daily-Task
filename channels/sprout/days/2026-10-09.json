@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-09",
+  "timezone": "Asia/Shanghai",
+  "content_version": "8d3f9a011823",
+  "tasks": [
+    {
+      "id": "2026-10-09-core-1",
+      "type": "core",
+      "title": "按时吃早饭"
+    },
+    {
+      "id": "2026-10-09-core-2",
+      "type": "core",
+      "title": "按时吃午饭"
+    },
+    {
+      "id": "2026-10-09-core-3",
+      "type": "core",
+      "title": "按时吃晚饭"
+    },
+    {
+      "id": "2026-10-09-bonus-1",
+      "type": "bonus",
+      "title": "按时睡觉"
+    }
+  ],
+  "tip": "你知道「按时」是几点的！"
+}
