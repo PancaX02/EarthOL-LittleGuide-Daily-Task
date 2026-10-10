@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-11",
+  "timezone": "Asia/Shanghai",
+  "content_version": "39e18eaa46d4",
+  "tasks": [
+    {
+      "id": "2026-10-11-core-1",
+      "type": "core",
+      "title": "起床后立刻拉开窗帘"
+    },
+    {
+      "id": "2026-10-11-core-2",
+      "type": "core",
+      "title": "做10个推墙俯卧撑"
+    },
+    {
+      "id": "2026-10-11-core-3",
+      "type": "core",
+      "title": "擦一擦家里的门把手"
+    },
+    {
+      "id": "2026-10-11-bonus-1",
+      "type": "bonus",
+      "title": "假装自己是博物馆讲解员，介绍一件家里的普通物品"
+    }
+  ],
+  "tip": "一起加入幸福小事计划吧!"
+}
