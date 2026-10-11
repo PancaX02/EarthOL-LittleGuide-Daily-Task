@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-12",
+  "timezone": "Asia/Shanghai",
+  "content_version": "16b4fb9500d9",
+  "tasks": [
+    {
+      "id": "2026-10-12-core-1",
+      "type": "core",
+      "title": "用黑白模式拍一张照片"
+    },
+    {
+      "id": "2026-10-12-core-2",
+      "type": "core",
+      "title": "提前整理好明天要带的东西"
+    },
+    {
+      "id": "2026-10-12-core-3",
+      "type": "core",
+      "title": "清洗头发并按摩头皮"
+    },
+    {
+      "id": "2026-10-12-bonus-1",
+      "type": "bonus",
+      "title": "尝试用脚趾夹起一件物品"
+    }
+  ],
+  "tip": "祝你早安、午安、晚安"
+}
