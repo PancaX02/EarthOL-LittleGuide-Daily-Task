@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-14",
+  "timezone": "Asia/Shanghai",
+  "content_version": "279a003cfde0",
+  "tasks": [
+    {
+      "id": "2026-10-14-core-1",
+      "type": "core",
+      "title": "晒10分钟上午的太阳"
+    },
+    {
+      "id": "2026-10-14-core-2",
+      "type": "core",
+      "title": "向遇到的小朋友做鬼脸"
+    },
+    {
+      "id": "2026-10-14-core-3",
+      "type": "core",
+      "title": "数一数家里有多少双鞋子"
+    },
+    {
+      "id": "2026-10-14-bonus-1",
+      "type": "bonus",
+      "title": "在衣柜里待一会儿"
+    }
+  ],
+  "tip": "天冷要加衣哦～"
+}
