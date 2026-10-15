@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-16",
+  "timezone": "Asia/Shanghai",
+  "content_version": "655a5511c472",
+  "tasks": [
+    {
+      "id": "2026-10-16-core-1",
+      "type": "core",
+      "title": "用舌头舔自己的胳膊肘"
+    },
+    {
+      "id": "2026-10-16-core-2",
+      "type": "core",
+      "title": "逛逛图书馆"
+    },
+    {
+      "id": "2026-10-16-core-3",
+      "type": "core",
+      "title": "找一棵喜欢的树抱一会儿"
+    },
+    {
+      "id": "2026-10-16-bonus-1",
+      "type": "bonus",
+      "title": "假装自己是今天的天气预报员"
+    }
+  ],
+  "tip": "幸福小事计划火热招募中"
+}
