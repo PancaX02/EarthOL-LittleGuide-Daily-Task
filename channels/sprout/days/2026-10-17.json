@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-17",
+  "timezone": "Asia/Shanghai",
+  "content_version": "1bfcbb1341de",
+  "tasks": [
+    {
+      "id": "2026-10-17-core-1",
+      "type": "core",
+      "title": "吃饭时不看手机"
+    },
+    {
+      "id": "2026-10-17-core-2",
+      "type": "core",
+      "title": "听一听朋友的歌单"
+    },
+    {
+      "id": "2026-10-17-core-3",
+      "type": "core",
+      "title": "了解一个狮子的品种和它的特点"
+    },
+    {
+      "id": "2026-10-17-bonus-1",
+      "type": "bonus",
+      "title": "用鼻子开灯"
+    }
+  ],
+  "tip": "今天也要好好生活哦"
+}
