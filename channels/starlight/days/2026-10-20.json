@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-20",
+  "timezone": "Asia/Shanghai",
+  "content_version": "d1e7902775d7",
+  "tasks": [
+    {
+      "id": "2026-10-20-core-1",
+      "type": "core",
+      "title": "空腹吃一顿早餐"
+    },
+    {
+      "id": "2026-10-20-core-2",
+      "type": "core",
+      "title": "把常穿的鞋子擦干净"
+    },
+    {
+      "id": "2026-10-20-core-3",
+      "type": "core",
+      "title": "睡前列好明天要做的事"
+    },
+    {
+      "id": "2026-10-20-bonus-1",
+      "type": "bonus",
+      "title": "手机盲打「我爱喝水」"
+    }
+  ],
+  "tip": "我爱喝水"
+}
