@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-23",
+  "timezone": "Asia/Shanghai",
+  "content_version": "dea2dfd88362",
+  "tasks": [
+    {
+      "id": "2026-10-23-core-1",
+      "type": "core",
+      "title": "学习「你好」用斯瓦希里语怎么说"
+    },
+    {
+      "id": "2026-10-23-core-2",
+      "type": "core",
+      "title": "像企鹅那样摇摇晃晃走十步"
+    },
+    {
+      "id": "2026-10-23-core-3",
+      "type": "core",
+      "title": "找一个靠垫垫在后腰"
+    },
+    {
+      "id": "2026-10-23-bonus-1",
+      "type": "bonus",
+      "title": "手机盲打「我会用心倾听自己」"
+    }
+  ],
+  "tip": "我会用心倾听自己"
+}
