@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-24",
+  "timezone": "Asia/Shanghai",
+  "content_version": "346651884e5a",
+  "tasks": [
+    {
+      "id": "2026-10-24-core-1",
+      "type": "core",
+      "title": "倒着读一句话"
+    },
+    {
+      "id": "2026-10-24-core-2",
+      "type": "core",
+      "title": "单次洗手达15秒"
+    },
+    {
+      "id": "2026-10-24-core-3",
+      "type": "core",
+      "title": "擦干净微波炉"
+    },
+    {
+      "id": "2026-10-24-bonus-1",
+      "type": "bonus",
+      "title": "提醒一位朋友该喝水了"
+    }
+  ],
+  "tip": "快快快，别渴着了！"
+}
