@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-26",
+  "timezone": "Asia/Shanghai",
+  "content_version": "188722001a95",
+  "tasks": [
+    {
+      "id": "2026-10-26-core-1",
+      "type": "core",
+      "title": "了解你所在城市的市花是什么"
+    },
+    {
+      "id": "2026-10-26-core-2",
+      "type": "core",
+      "title": "拍一张自己影子的照片"
+    },
+    {
+      "id": "2026-10-26-core-3",
+      "type": "core",
+      "title": "稍微调整一下家中布局"
+    },
+    {
+      "id": "2026-10-26-bonus-1",
+      "type": "bonus",
+      "title": "像猫咪那样用脸蹭一蹭枕头"
+    }
+  ],
+  "tip": "观看「日落」可以帮助身体调整生物钟，晚上更容易入睡。"
+}
