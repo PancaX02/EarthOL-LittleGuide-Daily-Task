@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-27",
+  "timezone": "Asia/Shanghai",
+  "content_version": "135748a8a73d",
+  "tasks": [
+    {
+      "id": "2026-10-27-core-1",
+      "type": "core",
+      "title": "摩挲一件粗糙的物品"
+    },
+    {
+      "id": "2026-10-27-core-2",
+      "type": "core",
+      "title": "给自己泡一杯热饮"
+    },
+    {
+      "id": "2026-10-27-core-3",
+      "type": "core",
+      "title": "介绍你最喜欢的水果"
+    },
+    {
+      "id": "2026-10-27-bonus-1",
+      "type": "bonus",
+      "title": "搜索并了解一个关于太阳系的冷知识"
+    }
+  ],
+  "tip": "「冰箱」可以延长食物的保质期"
+}
