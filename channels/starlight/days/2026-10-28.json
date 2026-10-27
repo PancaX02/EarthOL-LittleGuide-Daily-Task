@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-28",
+  "timezone": "Asia/Shanghai",
+  "content_version": "70ec0d47b86a",
+  "tasks": [
+    {
+      "id": "2026-10-28-core-1",
+      "type": "core",
+      "title": "把今天花的每一笔钱记下来"
+    },
+    {
+      "id": "2026-10-28-core-2",
+      "type": "core",
+      "title": "靠墙站直1分钟"
+    },
+    {
+      "id": "2026-10-28-core-3",
+      "type": "core",
+      "title": "拍下一处褶皱"
+    },
+    {
+      "id": "2026-10-28-bonus-1",
+      "type": "bonus",
+      "title": "关掉手机屏幕欣赏一会儿自己"
+    }
+  ],
+  "tip": "「雨天」是收集雨声的好时机"
+}
