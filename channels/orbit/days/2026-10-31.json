@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-10-31",
+  "timezone": "Asia/Shanghai",
+  "content_version": "7fd1440fbfe6",
+  "tasks": [
+    {
+      "id": "2026-10-31-core-1",
+      "type": "core",
+      "title": "拍下一朵云并在上面画点什么"
+    },
+    {
+      "id": "2026-10-31-core-2",
+      "type": "core",
+      "title": "用胳膊肘按一次电梯按钮"
+    },
+    {
+      "id": "2026-10-31-core-3",
+      "type": "core",
+      "title": "拍下一个牌匾"
+    },
+    {
+      "id": "2026-10-31-bonus-1",
+      "type": "bonus",
+      "title": "用力地挠一下自己的屁股"
+    }
+  ],
+  "tip": "「拥抱」的对象可以是自己"
+}
