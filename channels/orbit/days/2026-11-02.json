@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-02",
+  "timezone": "Asia/Shanghai",
+  "content_version": "99dcef554c20",
+  "tasks": [
+    {
+      "id": "2026-11-02-core-1",
+      "type": "core",
+      "title": "重拍一张老照片"
+    },
+    {
+      "id": "2026-11-02-core-2",
+      "type": "core",
+      "title": "整理电脑桌面"
+    },
+    {
+      "id": "2026-11-02-core-3",
+      "type": "core",
+      "title": "估算热水壶一年的耗电量"
+    },
+    {
+      "id": "2026-11-02-bonus-1",
+      "type": "bonus",
+      "title": "观察一个路人，模仿Ta的走路姿势"
+    }
+  ],
+  "tip": "如果我们能不通过消费获得快乐"
+}
