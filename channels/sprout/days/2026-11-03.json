@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-03",
+  "timezone": "Asia/Shanghai",
+  "content_version": "73b9fc513161",
+  "tasks": [
+    {
+      "id": "2026-11-03-core-1",
+      "type": "core",
+      "title": "找到3个橙色的物品"
+    },
+    {
+      "id": "2026-11-03-core-2",
+      "type": "core",
+      "title": "扔掉一支坏掉的笔"
+    },
+    {
+      "id": "2026-11-03-core-3",
+      "type": "core",
+      "title": "整理床头柜"
+    },
+    {
+      "id": "2026-11-03-bonus-1",
+      "type": "bonus",
+      "title": "向一个最近帮助过你的人说声谢谢"
+    }
+  ],
+  "tip": "休息一会儿眼睛吧～"
+}
