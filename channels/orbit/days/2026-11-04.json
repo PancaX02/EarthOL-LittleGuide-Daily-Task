@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-04",
+  "timezone": "Asia/Shanghai",
+  "content_version": "13b4e2d01938",
+  "tasks": [
+    {
+      "id": "2026-11-04-core-1",
+      "type": "core",
+      "title": "早晨刷完牙后刷一下舌苔"
+    },
+    {
+      "id": "2026-11-04-core-2",
+      "type": "core",
+      "title": "18:30之后不再进食"
+    },
+    {
+      "id": "2026-11-04-core-3",
+      "type": "core",
+      "title": "整理自己的衣服们"
+    },
+    {
+      "id": "2026-11-04-bonus-1",
+      "type": "bonus",
+      "title": "学会一种新的系鞋带方法"
+    }
+  ],
+  "tip": "气温下降时，增加衣物可以帮助保暖"
+}
