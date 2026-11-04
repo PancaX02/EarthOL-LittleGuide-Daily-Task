@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-05",
+  "timezone": "Asia/Shanghai",
+  "content_version": "000733c375ab",
+  "tasks": [
+    {
+      "id": "2026-11-05-core-1",
+      "type": "core",
+      "title": "捡一片好看的树叶夹进书里"
+    },
+    {
+      "id": "2026-11-05-core-2",
+      "type": "core",
+      "title": "找到房间里最安静的角落坐一会儿"
+    },
+    {
+      "id": "2026-11-05-core-3",
+      "type": "core",
+      "title": "用热毛巾敷一会儿眼睛"
+    },
+    {
+      "id": "2026-11-05-bonus-1",
+      "type": "bonus",
+      "title": "给自己的牙刷取一个名字"
+    }
+  ],
+  "tip": "专注进食有助于消化哦"
+}
