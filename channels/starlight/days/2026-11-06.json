@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-06",
+  "timezone": "Asia/Shanghai",
+  "content_version": "954bbc91586a",
+  "tasks": [
+    {
+      "id": "2026-11-06-core-1",
+      "type": "core",
+      "title": "把肩膀向前绕5圈，再向后绕5圈"
+    },
+    {
+      "id": "2026-11-06-core-2",
+      "type": "core",
+      "title": "想象你最喜欢的气味"
+    },
+    {
+      "id": "2026-11-06-core-3",
+      "type": "core",
+      "title": "从头到尾聆听一张专辑"
+    },
+    {
+      "id": "2026-11-06-bonus-1",
+      "type": "bonus",
+      "title": "思考问题：你现在最想干嘛？"
+    }
+  ],
+  "tip": "「拖鞋」是人类的好朋友！"
+}
