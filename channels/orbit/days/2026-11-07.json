@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-07",
+  "timezone": "Asia/Shanghai",
+  "content_version": "7f582cda26f4",
+  "tasks": [
+    {
+      "id": "2026-11-07-core-1",
+      "type": "core",
+      "title": "删掉手机里几乎用不到的软件"
+    },
+    {
+      "id": "2026-11-07-core-2",
+      "type": "core",
+      "title": "找出自己最大的优点"
+    },
+    {
+      "id": "2026-11-07-core-3",
+      "type": "core",
+      "title": "睡觉前把枕头拍得松松的"
+    },
+    {
+      "id": "2026-11-07-bonus-1",
+      "type": "bonus",
+      "title": "模仿你最爱用的表情包"
+    }
+  ],
+  "tip": "希望11月你会一直幸福！"
+}
