@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-08",
+  "timezone": "Asia/Shanghai",
+  "content_version": "669aa6ff4903",
+  "tasks": [
+    {
+      "id": "2026-11-08-core-1",
+      "type": "core",
+      "title": "在起床后晒10分钟太阳"
+    },
+    {
+      "id": "2026-11-08-core-2",
+      "type": "core",
+      "title": "抱着热水袋待一会儿"
+    },
+    {
+      "id": "2026-11-08-core-3",
+      "type": "core",
+      "title": "认出窗外或路边一只鸟的名字"
+    },
+    {
+      "id": "2026-11-08-bonus-1",
+      "type": "bonus",
+      "title": "在便利贴上给自己写一句话，贴在桌子上"
+    }
+  ],
+  "tip": "快要冬天啦，太阳变得很温和"
+}
