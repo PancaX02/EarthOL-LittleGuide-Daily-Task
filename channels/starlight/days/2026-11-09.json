@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-09",
+  "timezone": "Asia/Shanghai",
+  "content_version": "cfcf4979f724",
+  "tasks": [
+    {
+      "id": "2026-11-09-core-1",
+      "type": "core",
+      "title": "擦拭一件落灰的物品"
+    },
+    {
+      "id": "2026-11-09-core-2",
+      "type": "core",
+      "title": "尝试把一杯水倒到特别特别满"
+    },
+    {
+      "id": "2026-11-09-core-3",
+      "type": "core",
+      "title": "一边洗澡一边吃水果"
+    },
+    {
+      "id": "2026-11-09-bonus-1",
+      "type": "bonus",
+      "title": "走得比平时慢一些"
+    }
+  ],
+  "tip": "一天的1%是15分钟"
+}
