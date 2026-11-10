@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-11",
+  "timezone": "Asia/Shanghai",
+  "content_version": "71acf59d5f53",
+  "tasks": [
+    {
+      "id": "2026-11-11-core-1",
+      "type": "core",
+      "title": "挑战今天乘坐公共交通工具时不看手机"
+    },
+    {
+      "id": "2026-11-11-core-2",
+      "type": "core",
+      "title": "立刻站起来走1分钟"
+    },
+    {
+      "id": "2026-11-11-core-3",
+      "type": "core",
+      "title": "清理一下键盘缝隙"
+    },
+    {
+      "id": "2026-11-11-bonus-1",
+      "type": "bonus",
+      "title": "随机浏览相册中的一些非常旧的照片"
+    }
+  ],
+  "tip": "世界有浮力，放松，就能被托举"
+}
