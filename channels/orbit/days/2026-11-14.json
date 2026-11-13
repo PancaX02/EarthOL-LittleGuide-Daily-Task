@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-14",
+  "timezone": "Asia/Shanghai",
+  "content_version": "f4f61822e6e3",
+  "tasks": [
+    {
+      "id": "2026-11-14-core-1",
+      "type": "core",
+      "title": "搜索并了解：猫有哪些品种"
+    },
+    {
+      "id": "2026-11-14-core-2",
+      "type": "core",
+      "title": "帮别人做一件小事"
+    },
+    {
+      "id": "2026-11-14-core-3",
+      "type": "core",
+      "title": "回忆一场你至今还记得的梦"
+    },
+    {
+      "id": "2026-11-14-bonus-1",
+      "type": "bonus",
+      "title": "在纸上乱涂乱画30秒"
+    }
+  ],
+  "tip": "窗外的鸟叫声通常出现在「清晨」"
+}
