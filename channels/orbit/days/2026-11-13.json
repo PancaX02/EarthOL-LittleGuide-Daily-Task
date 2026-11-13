@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-13",
+  "timezone": "Asia/Shanghai",
+  "content_version": "05c65bec9f58",
+  "tasks": [
+    {
+      "id": "2026-11-13-core-1",
+      "type": "core",
+      "title": "翻开一本书的第20页并阅读"
+    },
+    {
+      "id": "2026-11-13-core-2",
+      "type": "core",
+      "title": "清理衣服上的毛发和皮屑"
+    },
+    {
+      "id": "2026-11-13-core-3",
+      "type": "core",
+      "title": "了解一个不为人熟知的法律条款"
+    },
+    {
+      "id": "2026-11-13-bonus-1",
+      "type": "bonus",
+      "title": "完整地剥下一张橘子皮"
+    }
+  ],
+  "tip": "「太阳」在早晨和傍晚最为温和"
+}
