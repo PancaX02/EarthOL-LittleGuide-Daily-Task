@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-15",
+  "timezone": "Asia/Shanghai",
+  "content_version": "598be63bb440",
+  "tasks": [
+    {
+      "id": "2026-11-15-core-1",
+      "type": "core",
+      "title": "坚持一整天不揉眼睛"
+    },
+    {
+      "id": "2026-11-15-core-2",
+      "type": "core",
+      "title": "吃完午饭后用清水漱口"
+    },
+    {
+      "id": "2026-11-15-core-3",
+      "type": "core",
+      "title": "看到这条任务立刻去尿尿"
+    },
+    {
+      "id": "2026-11-15-bonus-1",
+      "type": "bonus",
+      "title": "认真看看过去的照片，感受当时的心情"
+    }
+  ],
+  "tip": "不同通讯软件中的同一名玩家，依然是同一名玩家"
+}
