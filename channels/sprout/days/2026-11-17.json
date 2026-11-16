@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-17",
+  "timezone": "Asia/Shanghai",
+  "content_version": "ddc1110ae70c",
+  "tasks": [
+    {
+      "id": "2026-11-17-core-1",
+      "type": "core",
+      "title": "列一个愿望清单"
+    },
+    {
+      "id": "2026-11-17-core-2",
+      "type": "core",
+      "title": "走够3000步"
+    },
+    {
+      "id": "2026-11-17-core-3",
+      "type": "core",
+      "title": "认真读一遍某个物品的说明书"
+    },
+    {
+      "id": "2026-11-17-bonus-1",
+      "type": "bonus",
+      "title": "踮着脚尖走到厨房再走回来"
+    }
+  ],
+  "tip": "小肠是吸收大部分营养的地方"
+}
