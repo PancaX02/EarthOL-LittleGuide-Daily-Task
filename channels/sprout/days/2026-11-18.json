@@ -1,26 +1,26 @@
 {
   "schema_version": 1,
-  "date": "2026-11-17",
+  "date": "2026-11-18",
   "timezone": "Asia/Shanghai",
   "content_version": "ddc1110ae70c",
   "tasks": [
     {
-      "id": "2026-11-17-core-1",
+      "id": "2026-11-18-core-1",
       "type": "core",
       "title": "找到自己最旧的一件东西"
     },
     {
-      "id": "2026-11-17-core-2",
+      "id": "2026-11-18-core-2",
       "type": "core",
       "title": "认真观察一棵树的树皮"
     },
     {
-      "id": "2026-11-17-core-3",
+      "id": "2026-11-18-core-3",
       "type": "core",
       "title": "清理掉手机里7张不需要的照片"
     },
     {
-      "id": "2026-11-17-bonus-1",
+      "id": "2026-11-18-bonus-1",
       "type": "bonus",
       "title": "摸摸自己的影子"
     }
