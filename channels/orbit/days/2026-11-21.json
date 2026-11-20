@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-21",
+  "timezone": "Asia/Shanghai",
+  "content_version": "8d3c609fd242",
+  "tasks": [
+    {
+      "id": "2026-11-21-core-1",
+      "type": "core",
+      "title": "起床后15分钟内不看手机"
+    },
+    {
+      "id": "2026-11-21-core-2",
+      "type": "core",
+      "title": "抚摸三种不同材质的布料"
+    },
+    {
+      "id": "2026-11-21-core-3",
+      "type": "core",
+      "title": "冲洗一下洗手液瓶子"
+    },
+    {
+      "id": "2026-11-21-bonus-1",
+      "type": "bonus",
+      "title": "把水杯放在伸手可及的地方（但不要离电脑太近！）"
+    }
+  ],
+  "tip": "天气变干啦，注意补水哦～"
+}
