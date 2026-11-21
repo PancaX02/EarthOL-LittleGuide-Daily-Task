@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-22",
+  "timezone": "Asia/Shanghai",
+  "content_version": "a5982de7388f",
+  "tasks": [
+    {
+      "id": "2026-11-22-core-1",
+      "type": "core",
+      "title": "回忆能回忆起的最早的事情"
+    },
+    {
+      "id": "2026-11-22-core-2",
+      "type": "core",
+      "title": "数数自己一分钟的心跳"
+    },
+    {
+      "id": "2026-11-22-core-3",
+      "type": "core",
+      "title": "晚间刷牙超过2分钟"
+    },
+    {
+      "id": "2026-11-22-bonus-1",
+      "type": "bonus",
+      "title": "单脚站立穿上一只袜子"
+    }
+  ],
+  "tip": "「被罩」不仅可以装被子，也可以暂时容纳一名玩家"
+}
