@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-23",
+  "timezone": "Asia/Shanghai",
+  "content_version": "ed3c5fb01bba",
+  "tasks": [
+    {
+      "id": "2026-11-23-core-1",
+      "type": "core",
+      "title": "用非惯用手刷牙"
+    },
+    {
+      "id": "2026-11-23-core-2",
+      "type": "core",
+      "title": "找个东西抱一会儿"
+    },
+    {
+      "id": "2026-11-23-core-3",
+      "type": "core",
+      "title": "认出路边一种植物的名字"
+    },
+    {
+      "id": "2026-11-23-bonus-1",
+      "type": "bonus",
+      "title": "找到家里最厚的一本书，量量它有多厚"
+    }
+  ],
+  "tip": "睡着时「大脑」仍在整理记忆"
+}
