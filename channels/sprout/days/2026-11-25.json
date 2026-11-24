@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-25",
+  "timezone": "Asia/Shanghai",
+  "content_version": "5a67d36579c4",
+  "tasks": [
+    {
+      "id": "2026-11-25-core-1",
+      "type": "core",
+      "title": "揪掉一件衣服上所有的小毛球"
+    },
+    {
+      "id": "2026-11-25-core-2",
+      "type": "core",
+      "title": "用双手捧一下自己的脸蛋"
+    },
+    {
+      "id": "2026-11-25-core-3",
+      "type": "core",
+      "title": "听一首纯音乐，只关注其中一种乐器"
+    },
+    {
+      "id": "2026-11-25-bonus-1",
+      "type": "bonus",
+      "title": "写下你最喜欢的气味"
+    }
+  ],
+  "tip": "晾干的被子会带有太阳的味道"
+}
