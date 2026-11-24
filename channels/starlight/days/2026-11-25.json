@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-25",
   "timezone": "Asia/Shanghai",
-  "content_version": "c1744c399490",
+  "content_version": "b6b717428696",
   "tasks": [
     {
       "id": "2026-11-25-core-1",
@@ -12,7 +12,7 @@
     {
       "id": "2026-11-25-core-2",
       "type": "core",
-      "title": "用双手捧一下自己的脸蛋"
+      "title": "双手捧一下自己的脸蛋"
     },
     {
       "id": "2026-11-25-core-3",
