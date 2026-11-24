@@ -2,7 +2,7 @@
   "schema_version": 1,
   "date": "2026-11-25",
   "timezone": "Asia/Shanghai",
-  "content_version": "5a67d36579c4",
+  "content_version": "c1744c399490",
   "tasks": [
     {
       "id": "2026-11-25-core-1",
@@ -25,5 +25,5 @@
       "title": "写下你最喜欢的气味"
     }
   ],
-  "tip": "晾干的被子会带有太阳的味道"
+  "tip": "晒干的被子有太阳的味道"
 }
