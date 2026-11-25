@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-26",
+  "timezone": "Asia/Shanghai",
+  "content_version": "e731b527dda3",
+  "tasks": [
+    {
+      "id": "2026-11-26-core-1",
+      "type": "core",
+      "title": "了解一件发生在法国的历史事件"
+    },
+    {
+      "id": "2026-11-26-core-2",
+      "type": "core",
+      "title": "写下自己的名字，并在后面画一颗小爱心"
+    },
+    {
+      "id": "2026-11-26-core-3",
+      "type": "core",
+      "title": "尝试自己烹饪"
+    },
+    {
+      "id": "2026-11-26-bonus-1",
+      "type": "bonus",
+      "title": "分享一个你觉得幸福的瞬间"
+    }
+  ],
+  "tip": "欢迎加入幸福小事计划！"
+}
