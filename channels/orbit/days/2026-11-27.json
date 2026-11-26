@@ -1,0 +1,29 @@
+{
+  "schema_version": 1,
+  "date": "2026-11-27",
+  "timezone": "Asia/Shanghai",
+  "content_version": "8cc07e232b44",
+  "tasks": [
+    {
+      "id": "2026-11-27-core-1",
+      "type": "core",
+      "title": "翻出手机里最早的一张照片"
+    },
+    {
+      "id": "2026-11-27-core-2",
+      "type": "core",
+      "title": "给窗台的盆栽转半圈，帮它换一面晒太阳"
+    },
+    {
+      "id": "2026-11-27-core-3",
+      "type": "core",
+      "title": "洗澡时闭上眼睛，听一会儿水流的声音"
+    },
+    {
+      "id": "2026-11-27-bonus-1",
+      "type": "bonus",
+      "title": "@你的朋友提醒TA该喝水啦"
+    }
+  ],
+  "tip": "人类每天大约需要1800ml饮用水"
+}
